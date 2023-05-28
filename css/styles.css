@@ -797,7 +797,7 @@ img {
   margin-bottom: 16px;
 }
 
-.contact-form-field-desc {
+.contact-form-field {
   display: block;
   font-family: var(--main-font-family);
   font-style: normal;
